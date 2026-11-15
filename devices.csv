@@ -1,0 +1,6 @@
+hostname,ip_address,device_type
+R1,192.168.10.1,router
+SW1,192.168.10.2,switch
+FW1,192.168.10.3,firewall
+R2,192.168.10.4,router
+SW2,192.168.10.5,switch
